@@ -1,4 +1,4 @@
-# fbi_gun_data_investigate
-Investigate the FBI Gun dataset
+# Medical Appointment Show Up/Not
+Investigate the Medical Appointment dataset
 
 ### work in progres. Stay tuned...
